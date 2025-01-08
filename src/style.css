@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* we don't write anything here when styling with tailwind css, instead we just write the styles when typing the class in the html element itself, the only thing worth learning when you wanna learn tailwind css is just to get the hang of how do you write in the styles using tailwind css. You don't have to first make a class or an id and then come to the styles.css file and take those classes and ids to add styles. */
